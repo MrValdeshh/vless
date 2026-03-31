@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "8e48bd24-2590-4ef0-b6a9-4cb0c5a2b573",
+            "id": "b7c2e1d4-9a6f-4c88-8c3d-5e2f1a9b7c44",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/AMBERVPN"
+          "path": "/mrvaldez"
         }
       }
     }
